@@ -2,4 +2,4 @@
 Hello This is my presonal website github repo
 
 # AVAILABLE AT
-dulsathsenindu.tk
+www.dulsathsenindu.tk
