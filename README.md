@@ -1,4 +1,4 @@
-#  I am Janith Sadanuwan  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+#  I am Dulsath Senindu  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
 
@@ -35,16 +35,16 @@
 ---
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/janithsadanuwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+<a href="https://www.instagram.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
 <a href="https://t.me/imjanith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
- <a href="http://www.youtube.com/c/janithsadanuwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/JanithsadanuwanLK/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+ <a href="http://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Janithsadanuwan" height="30" width="40" /></a>
 </p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Janithsadanuwan)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DulsathSenindu)
 
 </details>
 
